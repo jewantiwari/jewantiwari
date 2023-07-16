@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jewantiwari
 - 👀 I’m interested in FULL STACK DEVELOPMENT
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and API
 - 💞️ I’m looking to collaborate on REAL ESTATE STARTUP COMPANIES
 - 📫 How to reach me LINKED-IN
 
